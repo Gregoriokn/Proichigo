@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Proichigo
+- 👋 Hi, I’m Gregório Koslinski Neto
 - 👀 I’m interested in science
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me gregoriokoslinskineto@gmail.com
